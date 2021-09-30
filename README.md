@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @legendarydiobrando
 - 👀 I’m interested in code
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on bot
+- 💞️ I’m looking to collaborate on a bot
 - 📫 How to reach me : sku-foundation2019@hotmail.com
 
 <!---
